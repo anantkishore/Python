@@ -1,2 +1,2 @@
-# Python
+# python
 python nibba project
